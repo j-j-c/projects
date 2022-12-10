@@ -1,0 +1,12 @@
+11 1
+google.com gmail.com
+google.com maps.com
+facebook.com ufl.edu
+ufl.edu google.com
+ufl.edu gmail.com
+maps.com facebook.com
+maps.com quora.com
+quoa.co maps.edu
+quora.com ufl.com
+quora.com facebok.co.in
+quora.com quoa.co
